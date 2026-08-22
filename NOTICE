@@ -1,0 +1,18 @@
+TreeIntel artifacts
+Copyright 2026 the TreeIntel authors
+
+This product includes software developed by the TreeIntel authors, released
+under the Apache License, Version 2.0 (see LICENSE).
+
+Data attribution
+-----------------
+The Apache100 benchmark (apache100/) is derived from publicly available Apache
+Software Foundation wiki content (https://cwiki.apache.org/). The benchmark
+ships only query strings and page metadata (titles, breadcrumbs, page ids,
+space keys, and retrieval metrics); it does not redistribute page bodies. Apache
+wiki content is the property of the Apache Software Foundation and its
+contributors. "Apache" and Apache project names are trademarks of the Apache
+Software Foundation.
+
+The confidential enterprise benchmark described in the paper is NOT included in
+this distribution.
